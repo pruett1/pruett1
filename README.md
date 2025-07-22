@@ -21,6 +21,7 @@
 ```
 
 ## Some tools I've used and learned
+<p align="left">
 <img src="img/python.png" alt="python" width=45 height=45>
 <img src="img/java.svg" alt="java" width=45 height=45>
 <img src="img/cpp.png" alt="c++" width=45 height=45>
@@ -32,6 +33,7 @@
 <img src="img/postgresql.png" alt="postgre" width=45 height=45>
 <img src="img/blazemeter.png" alt="blazemeter" width=45 height=45>
 <img src="img/mathematica.png" alt="mathematica" width=45 height=45>
+</p>
 
 <!--
 **pruett1/pruett1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
